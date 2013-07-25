@@ -38,7 +38,7 @@ public class MainActivity extends ListActivity
     	providers.add(new Provider("test1"));
     	providers.add(new Provider("test2"));
     	providers.add(new Provider("test3"));
-    	providers.add(new Provider("test4"));
+    	providers.add(new Provider("test CG"));
     	
 
     	
